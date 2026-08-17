@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Jack.
+<img width="2172" height="724" alt="ChatGPT Image Aug 17, 2026, 02_01_06 PM" src="https://github.com/user-attachments/assets/6e5a84ea-a219-4efe-b5d0-233ffbf4cf04" />
 
 <!--
 **white-stream/white-stream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
